@@ -27,8 +27,6 @@ def test_func(func):
     assert not result
     result: None = func([])
     assert not result
-# lkjhgfdsdfghjkl;';lkjhgfd
-
 
 
 test_func(is_number)
