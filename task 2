@@ -29,4 +29,5 @@ def test_func(func):
     assert not result
 
 
+
 test_func(is_number)
